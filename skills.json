@@ -1,0 +1,40 @@
+{
+  "AI Product Manager": [
+    "Product Management",
+    "AI/ML",
+    "Market Research",
+    "Agile",
+    "Communication",
+    "User Research",
+    "Product Strategy",
+    "Data Analysis"
+  ],
+  "Data Analyst": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Statistics"
+  ],
+  "ML Engineer": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "TensorFlow",
+    "Statistics"
+  ],
+  "Business Analyst": [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Business Analysis",
+    "Communication"
+  ],
+  "AI/ML Product Analyst": [
+    "AI/ML",
+    "Data Analysis",
+    "Market Research",
+    "Product Management",
+    "Communication"
+  ]
+}
