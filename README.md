@@ -52,7 +52,4 @@ This tool provides skill-gap insights based on the selected job role. The result
 - Deploy the application online
 ## Screenshots
 
-Screenshots of the application will be added here.
-## Screenshots
-
 ![Home Screen](screenshots/home.png)
